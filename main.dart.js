@@ -39078,7 +39078,7 @@ A.a1U.prototype={
 $0(){$.qO.bf().HL("bible-journal")},
 $S:0}
 A.a1V.prototype={
-$0(){$.qO.bf().HL("churchlifedevelopment")},
+$0(){$.qO.bf().HL("church-life")},
 $S:0}
 A.H4.prototype={
 T(b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=u.p,d="churchLifeShortDescription",c="Digital Library",b="churchLifeLibraryTitle",a=u.x,a0="churchLifeLibraryDescription",a1="Prayer Requests",a2="churchLifePrayerTitle",a3=u.G,a4="churchLifePrayerDescription",a5="News and Announcements",a6="churchLifeNewsTitle",a7=u.d,a8="churchLifeNewsDescription",a9="Church-Wide Bible Reading",b0="churchLifeBibleReadingTitle",b1=u.o,b2="churchLifeBibleReadingDescription",b3=t.Fr
